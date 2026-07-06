@@ -6,7 +6,10 @@
 # Paste this entire document into any AI, then add: "Using ONLY the facts
 # in this dossier, write a resume tailored to [JOB TITLE / JOB DESCRIPTION]."
 # The AI must follow the RULES OF ENGAGEMENT below. Do not invent facts.
-# Last updated: 2026-06-15 (merged full 2008-2026 timeline + archival findings)
+# Last updated: 2026-07-06
+# ============================================================
+# NOTE: This file is assembled from the modular files in dossier/*.md.
+# Edit the modular files, not this one, to keep the source of truth clean.
 # ============================================================
 
 ## 0. RULES OF ENGAGEMENT (the AI must obey these)
@@ -26,6 +29,20 @@
 8. Respect geography: target jobs within ~10 mi of Cypress, CA (up to 15–20 mi stretch).
 
 ---
+
+## 10. 🔒 DO-NOT-DISCLOSE (internal only - never on any resume/cover letter)
+- Court matter (UFCW absence cause).
+- Termination specifics (mass-HR firings; walkouts during emotional events; MeriCal dispute).
+- Andrew Tate / TRW affiliation on non-sales apps (use "Valley View Media").
+- Apple Watch metric source (PPE).
+- Reference risk: most former employers may not give glowing references; prefer coworker references (UFCW friends; MeriCal coworker). Do not over-list contactable employers on apps with deep background checks.
+- Motorcycle accident (NYE 2019/2020) + broken wrist; CA disability then unemployment 2020-2021. PRIVATE - never on resume. Real reason Kirkhill assignment ended.
+- "Why I left Kirkhill" PUBLIC line (verbal only, if asked): living with grandparents during COVID, didn't want to risk infecting them, so stepped back from on-site work and built his own business. (True-enough, sympathetic, has never cost him a job.)
+- BANNED stats: 15% incident reduction; 1.2M followers; $20k/$10k revenue; exact 110/90 ppm & 30-40 bpm.
+- Cofiroute: do NOT claim 8,000/day (true but not credible); use 7,000/day.
+
+---
+
 
 ## 1. IDENTITY & CONTACT (canonical - single source of truth)
 - Name: Michael Morrison
@@ -47,6 +64,7 @@
 - TECH/DATA: "Self-taught developer & data-entry pro - builds deployed web tools and processes high-volume data with precision."
 
 ---
+
 
 ## 3. MASTER TIMELINE (truth; curate per target) - MERGED 2008-2026
 | Years | Org | Real role | Type | Keep on resume? |
@@ -100,6 +118,7 @@ The candidate uses PADDED "display dates" on most resumes to present a stable, g
 
 
 ---
+
 
 ## 4. ROLE DETAIL + QUANTIFIED ACHIEVEMENT BANK (with baselines for negotiation)
 
@@ -166,6 +185,26 @@ The candidate uses PADDED "display dates" on most resumes to present a stable, g
 
 ---
 
+## 8. SKILLS & TOOLS INVENTORY (tag-filter by target)
+- **Production:** machine operation (bottling, labeling, filling), line setup/changeovers, palletizing, packing, GMP/FDA food safety, QC (pill count, tamper seal, label alignment, damage detection), cleaning logs/batch docs, line leadership, training new hires, downtime troubleshooting.
+- **Material handling:** manual pallet jack, bulk-container logistics, cold storage/temperature compliance, inventory staging, pick-pack-ship, Shopify, carrier handoff (UPS/FedEx/USPS).
+- **Safety:** PPE compliance, hazard identification & escalation, workplace safety standards.
+- **Marketing/Sales:** short-form video editing, content strategy, copywriting, direct-response CTAs, email & SMS marketing, funnel/conversion optimization, analytics, client acquisition, audience growth.
+- **Technical/Data:** programming/scripting (mSL), web stack (HTML/CSS/JS, React, Node, Express, MongoDB), web scraping/APIs, web app deployment, GitHub, 10-key + RF scanner, high-volume data entry, database cross-referencing (DMV/AT&T), HIPAA-compliant document handling, regulatory compliance forms, MS Office/Excel (pivot tables), 85+ WPM typing.
+- **Inventory:** SKU counting, 10-key proprietary devices, RF scanning, cycle counts, quota-beating accuracy (RGIS, WIS).
+- **Soft:** self-direction, fast self-learning, situational awareness, adaptability, time management, multi-role coverage.
+
+---
+
+## 9. NARRATIVE THREADS (pre-written reframes)
+- **Gap/continuity:** "Since 2013 I've run my own ventures (delivery, then a social-media marketing business and reselling), taking on W-2 production roles when I wanted structured team work. I've never been without income or initiative."
+- **Why production now:** "I want to plant roots on a production floor where output is what counts - I run above standard rate and flex across every station on the line."
+- **Short tenures:** Hearthside (plant closed/bankruptcy), Products & Go (temp assignment ended), MeriCal (temp-to-hire assignment ended). Framed as assignment ends, not quits.
+- **Sales version:** lead with the Tate/TRW story openly - 300k+ audience, $3–4k/mo, converts views to sales.
+
+---
+
+
 ## 5. VALLEY VIEW MEDIA - full venture profile (the gap-killer)
 - **Location (resume):** Westminster, CA.
 - **Dates:** 2020–present. **Role:** Founder/Owner (social media marketing business + freelance SMM).
@@ -196,37 +235,6 @@ The candidate uses PADDED "display dates" on most resumes to present a stable, g
 
 ---
 
-## 8. SKILLS & TOOLS INVENTORY (tag-filter by target)
-- **Production:** machine operation (bottling, labeling, filling), line setup/changeovers, palletizing, packing, GMP/FDA food safety, QC (pill count, tamper seal, label alignment, damage detection), cleaning logs/batch docs, line leadership, training new hires, downtime troubleshooting.
-- **Material handling:** manual pallet jack, bulk-container logistics, cold storage/temperature compliance, inventory staging, pick-pack-ship, Shopify, carrier handoff (UPS/FedEx/USPS).
-- **Safety:** PPE compliance, hazard identification & escalation, workplace safety standards.
-- **Marketing/Sales:** short-form video editing, content strategy, copywriting, direct-response CTAs, email & SMS marketing, funnel/conversion optimization, analytics, client acquisition, audience growth.
-- **Technical/Data:** programming/scripting (mSL), web stack (HTML/CSS/JS, React, Node, Express, MongoDB), web scraping/APIs, web app deployment, GitHub, 10-key + RF scanner, high-volume data entry, database cross-referencing (DMV/AT&T), HIPAA-compliant document handling, regulatory compliance forms, MS Office/Excel (pivot tables), 85+ WPM typing.
-- **Inventory:** SKU counting, 10-key proprietary devices, RF scanning, cycle counts, quota-beating accuracy (RGIS, WIS).
-- **Soft:** self-direction, fast self-learning, situational awareness, adaptability, time management, multi-role coverage.
-
----
-
-## 9. NARRATIVE THREADS (pre-written reframes)
-- **Gap/continuity:** "Since 2013 I've run my own ventures (delivery, then a social-media marketing business and reselling), taking on W-2 production roles when I wanted structured team work. I've never been without income or initiative."
-- **Why production now:** "I want to plant roots on a production floor where output is what counts - I run above standard rate and flex across every station on the line."
-- **Short tenures:** Hearthside (plant closed/bankruptcy), Products & Go (temp assignment ended), MeriCal (temp-to-hire assignment ended). Framed as assignment ends, not quits.
-- **Sales version:** lead with the Tate/TRW story openly - 300k+ audience, $3–4k/mo, converts views to sales.
-
----
-
-## 10. 🔒 DO-NOT-DISCLOSE (internal only - never on any resume/cover letter)
-- Court matter (UFCW absence cause).
-- Termination specifics (mass-HR firings; walkouts during emotional events; MeriCal dispute).
-- Andrew Tate / TRW affiliation on non-sales apps (use "Valley View Media").
-- Apple Watch metric source (PPE).
-- Reference risk: most former employers may not give glowing references; prefer coworker references (UFCW friends; MeriCal coworker). Do not over-list contactable employers on apps with deep background checks.
-- Motorcycle accident (NYE 2019/2020) + broken wrist; CA disability then unemployment 2020-2021. PRIVATE - never on resume. Real reason Kirkhill assignment ended.
-- "Why I left Kirkhill" PUBLIC line (verbal only, if asked): living with grandparents during COVID, didn't want to risk infecting them, so stepped back from on-site work and built his own business. (True-enough, sympathetic, has never cost him a job.)
-- BANNED stats: 15% incident reduction; 1.2M followers; $20k/$10k revenue; exact 110/90 ppm & 30-40 bpm.
-- Cofiroute: do NOT claim 8,000/day (true but not credible); use 7,000/day.
-
----
 
 ## 11. DEEPER SALES HISTORY (for sales resumes only - expand on request)
 Candidate has an early/lifelong sales thread worth developing for sales-focused applications:
@@ -235,3 +243,4 @@ Candidate has an early/lifelong sales thread worth developing for sales-focused 
 - 2012-2015: moderated /r/LeagueOfLegends (massive community) - audience/community management.
 - 2020-present: Valley View Media / TRW - trained in full sales funnel; 300k+ audience; converts views to sales; freelance client acquisition.
 ACTION: If candidate wants a sales resume that leans on lifelong selling, ask for more detail on the childhood/early sales gigs to flesh this out.
+

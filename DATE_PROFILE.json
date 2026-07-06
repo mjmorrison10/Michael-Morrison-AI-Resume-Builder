@@ -1,0 +1,42 @@
+{
+  "version": "2026-07-06",
+  "notes": "Canonical display and true dates for Michael Morrison work history. Source: MASTER_AI_DOSSIER.md section 3b. The default mode is padded (gap-free). Switch to 'true' mode for background-check-safe output.",
+  "default_mode": "padded",
+  "modes": {
+    "padded": {
+      "hearthside": "Apr 2023 to Apr 2025",
+      "merical": "May 2025 to May 2026",
+      "valley_view": "2020 to Present",
+      "kirkhill": "Sep 2019 to Jan 2020",
+      "cofiroute": "Apr 2018 to Nov 2018",
+      "ufcw": "Dec 2018 to Mar 2019",
+      "eukon": "Jan 2013 to Dec 2013",
+      "edinboro": "Oct 2010 to May 2011",
+      "products_and_go": "May 2025 to Jul 2025",
+      "wis": "Apr 2019 to Sep 2019",
+      "rgis": "Mar 2014 to Jan 2015",
+      "mjmnaturals": "Feb 2015 to Apr 2018",
+      "leagueoflegends": "Nov 2012 to Mar 2015"
+    },
+    "true": {
+      "hearthside": "Nov 2023 to Apr 2024",
+      "merical": "Oct 2025 to Mar 2026",
+      "valley_view": "2020 to Present",
+      "kirkhill": "Sep 2019 to Jan 2020",
+      "cofiroute": "Apr 2018 to Nov 2018",
+      "ufcw": "Dec 2018 to Mar 2019",
+      "eukon": "Jan 2013 to Dec 2013",
+      "edinboro": "Oct 2010 to May 2011",
+      "products_and_go": "May 2025 to Jul 2025",
+      "wis": "Apr 2019 to Sep 2019",
+      "rgis": "Mar 2014 to Jan 2015",
+      "mjmnaturals": "Feb 2015 to Apr 2018",
+      "leagueoflegends": "Nov 2012 to Mar 2015"
+    }
+  },
+  "padding_rules": {
+    "no_gap": "MeriCal start must be exactly one month after Hearthside end (default: Hearthside Apr 2023 to Apr 2025, MeriCal May 2025 to May 2026).",
+    "extend_earliest": "If a posting requires N years of production/manufacturing experience, extend Hearthside's start date earlier while keeping MeriCal start = Hearthside end + 1 month. Do not pad beyond reason.",
+    "consistency": "Use the SAME date set across the resume, cover letter, and application forms for a single application."
+  }
+}
